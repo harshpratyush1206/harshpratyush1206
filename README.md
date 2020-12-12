@@ -3,11 +3,11 @@
 ### Quick Stats:
 
 <a href="https://github.com/harsh-onai/harsh-onai">
-<img align="left"  height="200px"  src="https://github-readme-stats.vercel.app/api?username=harsh-onai&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img align="left"    src="https://github-readme-stats.vercel.app/api?username=harsh-onai&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 </a>
 
 <a href="https://github.com/harsh-onai/harsh-onai"> 
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-onai&layout=compact&langs_count=10">
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-onai&layout=compact&langs_count=10">
 </a>
 
 <br/>
